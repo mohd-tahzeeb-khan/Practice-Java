@@ -9,6 +9,6 @@ public class findsumandavg {
         }
         avg=sum/args.length;
         System.out.println("Sum of no is: "+sum);
-        System.out.println("Average of no is" +avg);
+        System.out.println("Average of no is: " +avg);
     }
 }
