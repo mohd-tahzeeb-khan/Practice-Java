@@ -1,4 +1,4 @@
-//Convert the String into Integer and add substract two nos, by using commandline arguments
+//Convert the String into Integer by using commandline arguments
 public class convert_string_into_Integer {
     public static void main(String args[]){
         int i, a;
