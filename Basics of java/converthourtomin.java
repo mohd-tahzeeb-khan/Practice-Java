@@ -1,3 +1,4 @@
+//convert hours into min using cmdline argument
 public class converthourtomin {
     public static void main(String args[]){
         if(args.length==1){
