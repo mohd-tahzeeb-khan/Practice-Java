@@ -1,3 +1,4 @@
+//write a program to store 10 elements in the array and display the array using for loop
 public class datastoreinarray{
     public  static void main(String args[]){
         int no[]=new int[11];
